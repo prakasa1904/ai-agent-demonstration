@@ -1,0 +1,10 @@
+venv
+.env
+unused
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
