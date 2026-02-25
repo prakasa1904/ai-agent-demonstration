@@ -1,6 +1,3 @@
-kikuk:
-	@source venv/bin/activate
-
 init:
 	@(	\
 		echo "initialize ai-agent ecosystem..."; \
